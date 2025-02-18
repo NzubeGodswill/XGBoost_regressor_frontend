@@ -55,7 +55,7 @@ The streamlit app will open in a browser window at `http:localhost:8501`.
 ## Usage
 
 Streamlit Frontend
-![streamlit frontend Image](frontend_app.png)
+![streamlit frontend Image](![frontend_app.png](src%2Ffrontend_app.png)frontend_app.png)
 
 -Input insurance features in the provided fields.
 -Click the predict button to get the prediction.
@@ -63,7 +63,7 @@ Streamlit Frontend
 
 ### Streamlit Application
 
-The Streamlit app provides an iterface for the users to input feature values and get predictions. When the predict button is clicked, the app sends the data to the FASTAPI server and displays whether predicted insurance charges 
+The Streamlit app provides an interface for the users to input feature values and get predictions. When the predict button is clicked, the app sends the data to the FASTAPI server and displays whether predicted insurance charges 
 Example Input and Output
 Example Input:
 
